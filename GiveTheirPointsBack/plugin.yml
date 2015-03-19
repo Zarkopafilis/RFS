@@ -1,0 +1,5 @@
+main: com.rfslabs.pback.Main
+author: RFS
+description: get your points back upon login
+version: 1
+name: RFSGivePointsBack

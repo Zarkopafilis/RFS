@@ -1,0 +1,6 @@
+main: com.rfslabs.greece.core.Main
+author: RFS
+description: RFS Ancient Greece Core Plugin
+version: 1
+database: true
+name: AncientGreeceCore

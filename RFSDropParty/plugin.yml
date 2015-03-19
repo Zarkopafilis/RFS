@@ -1,0 +1,13 @@
+name: RFSDropParty
+version: 1
+description: RFS
+authors: [Zarkopafilis] 
+website: http://rfsdev.net/drop_party
+ 
+main: com.rfslabs.dropparty.App
+database: true
+
+commands:
+  dropparty:
+      description: DROP PARTY!
+      usage: /command args

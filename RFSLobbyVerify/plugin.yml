@@ -1,0 +1,12 @@
+main: com.rfslabs.lobby.verifier.Main
+author: RFS
+description: RFS Lobby Core Plugin
+version: 1
+name: RFSLobbyVerify
+commands:
+  lobbystatus:
+    description: A command
+  signbind:
+    description: New MC Server  
+  add3rdpartyhost:
+    description: New 3rd Party Server      

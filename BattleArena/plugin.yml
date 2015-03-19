@@ -1,0 +1,61 @@
+name: ${project.name}
+version: ${project.version}
+description: Arena system for BattleCraft
+
+main: mc.alk.arena.BattleArena
+
+author: alkarin
+
+softdepend: [BattleTracker, Essentials, Herochat, Heroes, IcePvPControl, Factions, GroupManager, mcMMO, MultiInv, Multiworld, Multiverse-Core, Multiverse-Inventories, PvPToggle, PvPTime, PvPTimer, SimpleClans, TagAPI, Towny, WorldEdit, WorldGuard, VanishNoPackes, Vault]
+
+commands:
+    arenateam:
+        aliases: [team,at]
+        description: Team commands
+        usage: Problem loading plugin, please send errors on startup to alkarin_v
+    arena:
+        aliases: [a]
+        description: Arena commands
+        usage: Problem loading plugin, please send errors on startup to alkarin_v
+    skirmish:
+        aliases: [sk]
+        description: Skirmish commands
+        usage: Problem loading plugin, please send errors on startup to alkarin_v
+    battleground:
+        aliases: [bg]
+        description: battleground commands
+        usage: Problem loading plugin, please send errors on startup to alkarin_v
+    watch:
+        description: watch a fight
+        usage: Problem loading plugin, please send errors on startup to alkarin_v
+    tourney:
+        description: Create a tournament
+        usage: Problem loading plugin, please send errors on startup to alkarin_v
+    colosseum:
+        aliases: [col]
+        description: colosseum commands
+        usage: Problem loading plugin, please send errors on startup to alkarin_v
+    freeforall:
+        aliases: [ffa]
+        description: join a ffa
+        usage: Problem loading plugin, please send errors on startup to alkarin_v
+    deathMatch:
+        aliases: [dm]
+        description: join a dm
+        usage: Problem loading plugin, please send errors on startup to alkarin_v
+    arenaAlter:
+        aliases: [arenaEdit,aa]
+    battleArena:
+        aliases: [ba]
+        description: Admin commands
+        usage: Problem loading plugin, please send errors on startup to alkarin_v
+    battleArenaDebug:
+        aliases: [bad]
+        description: Debugging Commands
+        usage: Problem loading plugin, please send errors on startup to alkarin_v
+    battleArenaScheduler:
+        aliases: [bas]
+        description: Schedule Continuous Events
+        usage: Problem loading plugin, please send errors on startup to alkarin_v
+
+

@@ -1,0 +1,4 @@
+name: RFSAnarchy
+main: com.rfslabs.lobby.anarchy.Main
+version: 1
+description: RFS

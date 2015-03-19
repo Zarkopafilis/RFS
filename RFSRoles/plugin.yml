@@ -1,0 +1,25 @@
+name: RFSRoles
+main: com.rfslabs.rfsroles.Main
+version: 1
+description: RFS
+commands:
+  stats:
+    description: Gives you all your Rainbow Stats!
+  human:
+    description: Be a Human!
+  orc:
+    description: Be a Orc!
+  dwarf:
+    description: Be a Dwarf!
+  elf:
+    description: Be an Elf!
+  warcry:
+    description: Orcs skill.
+  slow:
+    description: Dwarfs skill.
+  bleed:
+    description: Humans skill.
+  lethalshot:
+    description: Elfs skill.
+  get_levels_back:
+    description: Get your RFSLevels back!  

@@ -1,0 +1,27 @@
+database:
+  host: blah
+  username: blah
+  password: blah
+world: world
+tutorial_loc:
+  x: 0
+  y: 0
+  z: 0
+team_spawn_loc:
+  terran_republic:
+    x: 5
+    y: 80
+    z: 0
+  vanu_sovereignty:
+    x: 10
+    y: 80
+    z: 0
+  new_conglomerate:
+    x: 15
+    y: 80
+    z: 0
+lvlup-kills: 10
+throwup-pow: 4
+generator-delay-secs: 10
+outpost-per-25-percent-secs: 10
+uses-db: true

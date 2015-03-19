@@ -1,0 +1,8 @@
+name: RFSTowerRun
+version: 1
+description: RFS
+authors: [Zarkopafilis] 
+website: http://rfsdev.net/tower_run
+ 
+main: com.rfslabs.towerrun.App
+database: true

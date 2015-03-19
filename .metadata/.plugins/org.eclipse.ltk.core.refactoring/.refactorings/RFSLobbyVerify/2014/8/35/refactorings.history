@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MinecraftServer.java&apos; to &apos;TestProj/src/(default package)&apos;&#x0A;- Original project: &apos;RFSLobbyVerify&apos;&#x0A;- Destination element: &apos;TestProj/src/(default package)&apos;&#x0A;- Original element: &apos;com.rfslabs.lobby.verifier.MinecraftServer.java&apos;" description="Copy compilation unit" destination="=TestProj/src&lt;" element1="/src&lt;com.rfslabs.lobby.verifier{MinecraftServer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1408958949620" units="1" version="1.0"/>
+</session>

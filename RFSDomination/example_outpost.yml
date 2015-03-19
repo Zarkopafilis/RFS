@@ -1,0 +1,32 @@
+corner:
+  1:
+    x: 312
+    y: 412
+    z: 543
+  2:
+    x: 9
+    y: 43
+    z: 15
+status: none
+uuid: 1
+gen:
+  1:
+    x: 2
+    y: 5 
+    z: 3
+  2:
+    x: 1
+    y: 1
+    z: 1
+  3:
+    x: 9
+    y: 9
+    z: 9
+  4:
+    x: 5
+    y: 5
+    z: 5     
+respawn_chamber:
+  x: 2
+  y: 5 
+  z: 3

@@ -1,0 +1,16 @@
+name: RFSDomination
+version: 1
+description: RFS
+authors: [Zarkopafilis , FlevasGR , yorgaraz , padakoys] 
+website: http://rfsdev.net/domination
+ 
+main: com.rfslabs.rfsdom.core.App
+database: true
+
+commands:
+  stats:
+      description: Shows stats
+      usage: /stats
+  sunderer:
+      description: Spawnpoint
+      usage: /sunderer      

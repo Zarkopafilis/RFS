@@ -1,0 +1,5 @@
+main: com.rfslabs.ancientgreece.Main
+author: RFS
+description: RFS Lobby Core Plugin
+version: 1
+name: AncientGreeceKicker

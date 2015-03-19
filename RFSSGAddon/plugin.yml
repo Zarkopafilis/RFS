@@ -1,0 +1,4 @@
+name: RFSSGAddon
+main: com.rfslabs.sg.addon.Main
+version: 1
+description: RFS

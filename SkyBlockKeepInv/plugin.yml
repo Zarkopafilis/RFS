@@ -1,0 +1,5 @@
+name: KeepInv
+version: 1
+description: RFS
+authors: [Zarkopafilis] 
+main: rfs.keep.Main

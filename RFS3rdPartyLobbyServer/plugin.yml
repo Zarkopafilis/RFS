@@ -1,0 +1,5 @@
+main: com.rfslabs.verifier.Main
+author: RFS
+name: RFSLobbyLink
+description: Do not touch this plugin , anything you do with it without our permission is going to get your server removed from lobby
+version: 1

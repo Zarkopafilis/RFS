@@ -1,0 +1,13 @@
+name: RFSPoints
+main: com.rfslabs.rfspoints.OnlineExMain
+version: 1.0
+commands:
+   settp:
+      description: A command to add new warps.
+   setpoints:
+      description: A command to set points.
+   addpoints:
+      description: A command to add points.    
+   rfspoints:
+      description: A command to add points.            
+#FUCK YOU ELFOCRASH , READ THE PINNED POSTS ON BUKKIT FORUM GOD DAMN!!!      

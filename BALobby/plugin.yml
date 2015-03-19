@@ -1,0 +1,5 @@
+main: com.rfslabs.battlearena.ext.Main
+author: RFS
+name: BALobby
+description: RFS Lobby Core Plugin
+version: 1

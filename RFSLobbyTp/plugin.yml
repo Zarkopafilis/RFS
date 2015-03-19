@@ -1,0 +1,8 @@
+main: com.rfslabs.rbtp.Main
+author: RFS
+description: RFS Lobby Core Plugin
+version: 1
+name: RFSLobbyTp
+commands:
+  lobby:
+    description: Teleport to lobby portals

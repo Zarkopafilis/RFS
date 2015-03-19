@@ -1,0 +1,9 @@
+name: RFSZombies
+version: 1
+description: RFS
+authors: [Zarkopafilis] 
+website: http://rfsdev.net/nazi_zombies
+depend: [Multiverse-Core]
+load: POSTWORLD
+main: com.rfslabs.zombies.Main
+database: true
